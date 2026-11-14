@@ -196,4 +196,4 @@ This repository serves as the official landing page for Exile's End. The softwar
 **Get the most recent version of Exile's End today!**
 
 ---
-**Last updated:** 2026-11-13 23:57:50 UTC
+**Last updated:** 2026-11-14 04:32:23 UTC
